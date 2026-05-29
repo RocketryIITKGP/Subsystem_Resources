@@ -1,2 +1,2 @@
-# Subsystem Resources
-Navigate to the Subsystem-Specific Resources here.
+# Structures Subsystem Resources
+Find the Structures Learning and Development Resources here.
