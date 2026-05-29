@@ -1,2 +1,2 @@
-# Subsystem_Resources
-Navigate to the individual subsystem's reading references and resources.
+# Propulsion Subsystem Resources
+Find the Propulsion Subsystem Learning and Development Resources here.
