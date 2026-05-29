@@ -1,2 +1,2 @@
-# Subsystem Resources
-Navigate to the Subsystem-Specific Resources here.
+# Public Relations Resources
+Resources Relevant to Public Relations Team Development.
