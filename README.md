@@ -1,2 +1,2 @@
-# Subsystem Resources
-Navigate to the Subsystem-Specific Resources here.
+# Avionics Subsystem Resources
+Avionics Learning and Development Resources can be found here.
