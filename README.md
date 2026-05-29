@@ -1,2 +1,2 @@
-# Subsystem Resources
-Navigate to the Subsystem-Specific Resources here.
+# Software Development Resources (Avionics and Software)
+Software-related Learning Resources are here.
